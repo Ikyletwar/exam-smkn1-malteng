@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ExamClient" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0D1445</item>
+        <item name="colorPrimary">#1A237E</item>
+        <item name="colorPrimaryVariant">#0D1445</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondary">#455A64</item>
+        <item name="colorSecondaryVariant">#37474F</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

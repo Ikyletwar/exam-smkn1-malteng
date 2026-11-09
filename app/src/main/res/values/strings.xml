@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_1">1.</string>
+    <string name="_2">2.</string>
+    <string name="_3">3.</string>
+    <string name="_4">4.</string>
+    <string name="app_name">Exam SMKN 1 Malteng</string>
+    <string name="https_contoh_com">https://contoh.com</string>
+    <string name="logo">Logo</string>
+    <string name="masuk">Masuk</string>
+    <string name="masukkan_url_cbt_bimasoft">Masukkan URL Ujian</string>
+    <string name="rule_1">DILARANG membuka aplikasi lain, browser, floating apps, atau berpindah dari aplikasi ujian.</string>
+    <string name="rule_2">DILARANG membuka notifikasi, membalas pesan, screenshot, atau merekam layar selama ujian.</string>
+    <string name="rule_3">SISTEM AKAN MENDETEKSI SETIAP PELANGGARAN dan mencatatnya sebagai tindakan kecurangan.</string>
+    <string name="rule_4">PELANGGARAN akan dikenakan sanksi PENALTI (3-48 menit) dan LAPORAN akan dikirim ke pengawas.</string>
+    <string name="tata_tertib_ujian">TATA TERTIB UJIAN</string>
+    <string name="credit">Dikembangkan oleh Hizkia Letwar</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="qr_not_read">QR tidak terbaca, silakan coba lagi</string>
+    <string name="qr_invalid">QR tidak valid! Pastikan berisi URL ujian</string>
+    <string name="qr_permission_denied">Izin kamera ditolak. Tidak dapat melakukan scan QR.</string>
+    <string name="about_title">Tentang Aplikasi</string>
+    <string name="about_app_name">Exam SMKN 1 Malteng</string>
+    <string name="about_version">Versi 1.0</string>
+    <string name="about_description">Aplikasi ujian berbasis web terkhusus untuk SMKN 1 Malteng</string>
+    <string name="about_developer">Dikembangkan oleh:</string>
+    <string name="about_developer_name">Hizkia Letwar</string>
+    <string name="about_class">Kelas XI, Jurusan TJKT-1</string>
+    <string name="about_copyright">Copyright 2026 SMKN 1 Malteng</string>
+    <string name="about_dark_mode">Mode Gelap</string>
+    <string name="penalty_title">PELANGGARAN TERDETEKSI</string>
+    <string name="penalty_subtitle">Anda keluar dari aplikasi ujian</string>
+    <string name="penalty_count">Pelanggaran ke-%d</string>
+    <string name="penalty_wait">Tunggu hingga waktu habis</string>
+    <string name="penalty_app_locked">Aplikasi terkunci</string>
+    <string name="penalty_remaining">Sisa waktu penalti:</string>
+    <string name="dialog_exam_title">KELUAR UJIAN?</string>
+    <string name="dialog_exam_message">Anda yakin ingin keluar dari ujian?</string>
+    <string name="dialog_exam_yes">KELUAR</string>
+    <string name="dialog_exam_no">BATAL</string>
+    <string name="toast_enter_url">Masukkan url dengan benar</string>
+    <string name="toast_network_unstable">Jaringan kurang stabil</string>
+    <string name="url_hint">https://contoh.com</string>
+</resources>
